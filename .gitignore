@@ -1,0 +1,12 @@
+# IDE settings
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Sensitive or unnecessary files
+vs-connect.pdf
+
