@@ -1,0 +1,9 @@
+# Ensure HTML files are recognized as HTML
+*.html linguist-language=HTML
+
+# Ensure CSS files are recognized as CSS
+*.css linguist-language=CSS
+
+# Ensure JavaScript files are recognized as JavaScript
+*.js linguist-language=JavaScript
+
